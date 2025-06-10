@@ -1,0 +1,20 @@
+{
+    "epoch-1": {
+        "precision_macro_avg": 0.07142857142857142,
+        "recall_macro_avg": 0.05357142857142857,
+        "f1_macro_avg": 0.05952380952380952,
+        "hamming_loss": 0.017857142857142856
+    },
+    "epoch-2": {
+        "precision_macro_avg": 0.07142857142857142,
+        "recall_macro_avg": 0.05357142857142857,
+        "f1_macro_avg": 0.05952380952380952,
+        "hamming_loss": 0.026785714285714284
+    },
+    "epoch-3": {
+        "precision_macro_avg": 0.07142857142857142,
+        "recall_macro_avg": 0.05357142857142857,
+        "f1_macro_avg": 0.05952380952380952,
+        "hamming_loss": 0.026785714285714284
+    }
+}
